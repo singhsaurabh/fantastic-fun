@@ -2,4 +2,4 @@
 fantastic-fun
 
 ## Github - rebase
- github-rebase [here](blob/main/git-rebase.md)
+ github-rebase [here](git-rebase.md)
