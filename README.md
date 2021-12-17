@@ -2,4 +2,4 @@
 fantastic-fun
 
 ## Github - rebase
- github-rebase [here](fantastic-fun/git-rebase.md)
+ github-rebase [here](https://github.com/singhsaurabh/fantastic-fun/blob/main/git-rebase.md)
